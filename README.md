@@ -20,5 +20,5 @@ git clone  <https://github.com/alexlog123/projeto-hod-szpc1>
 ```
 cd repositorio-com-readme
 ```
-
+mudando 
 
